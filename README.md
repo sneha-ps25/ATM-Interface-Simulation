@@ -32,9 +32,13 @@ Easy navigation with clearly labeled buttons
 Account Number	PIN	Starting Balance
 
 1234567890	1111	$1000
+
 0987654321	2222	$1500
+
 1357902468	3333	$2000
+
 0246813579	4444	$500
+
 📌 Future Enhancements
 
 Add account creation system
